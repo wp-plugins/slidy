@@ -16,7 +16,7 @@ Slidy is a responsive jQuery slider that uses slick carousel and that is fully i
 
 **How to use Slidy**
 
-Find the example below for inserting directly into the template
+Find the example below for inserting it directly into the template
 
 `
 $args = array(
@@ -31,7 +31,7 @@ $args = array(
 if( function_exists( 'slidy_create' ) ){ slidy_create( $args ); }
 `
 
-Find the example below for interting using shortcode
+Find the example below for inserting it using shortcode
 
 `[slidy category="" title="false" autoplay="true" autoplaySpeed="500" dots="true" slideToShow="3" slideToScroll="1"]`
 
