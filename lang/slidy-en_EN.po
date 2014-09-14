@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Gungor Budak
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Slidy 0.0.1\n"
+"Report-Msgid-Bugs-To: gngrbdk@gmail.com\n"
+"POT-Creation-Date: 2014-09-13 17:53+0300\n"
+"PO-Revision-Date: 2014-09-13 17:55+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.1\n"
+
+#: slidy.php:85
+msgctxt "post type general name"
+msgid "Slides"
+msgstr "Slides"
+
+#: slidy.php:86
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr "Slide"
+
+#: slidy.php:87
+msgctxt "admin menu"
+msgid "Slides"
+msgstr "Slides"
+
+#: slidy.php:88
+msgctxt "add new on admin bar"
+msgid "Slide"
+msgstr "Slide"
+
+#: slidy.php:89
+msgctxt "book"
+msgid "Add New"
+msgstr "Add New"
+
+#: slidy.php:90
+msgid "Add New Slide"
+msgstr "Add New Slide"
+
+#: slidy.php:91
+msgid "New Slide"
+msgstr "New Slide"
+
+#: slidy.php:92
+msgid "Edit Slide"
+msgstr "Edit Slide"
+
+#: slidy.php:93
+msgid "View Slide"
+msgstr "View Slide"
+
+#: slidy.php:94
+msgid "All Slides"
+msgstr "All Slides"
+
+#: slidy.php:95
+msgid "Search Slides"
+msgstr "Search Slides"
+
+#: slidy.php:96
+msgid "Parent Slides:"
+msgstr "Parent Slides:"
+
+#: slidy.php:97
+msgid "No slides found."
+msgstr "No slides found."
+
+#: slidy.php:98
+msgid "No slides found in Trash."
+msgstr "No slides found in Trash."
+
+#: slidy.php:129
+msgid "Categories"
+msgstr "Categories"
+
+#: slidy.php:146
+msgid "Slide Link"
+msgstr "Slide Link"
+
+#: slidy.php:152
+msgid "Slide URL"
+msgstr "Slide URL"
+
+#: slidy.php:153
+msgid "Enter the slide URL or a custom URL to link it to a content"
+msgstr "Enter the slide URL or a custom URL to link it to a content"

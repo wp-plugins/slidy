@@ -1,0 +1,24 @@
+.slick-prev:before, .slick-next:before {
+	color: #333;
+}
+
+.slide-container {
+	position: relative;
+	padding: 0px;
+	border: 5px solid #dedede;
+	border-radius: 4px;
+}
+
+.slide-container img {
+	margin: 0px !important;
+}
+
+.slide-title {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.5);
+	line-height: 1.6em;
+}
