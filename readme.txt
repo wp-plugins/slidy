@@ -1,6 +1,6 @@
 === Slidy ===
 Contributors: gungorbudak
-Tags: jQuery, slider, jQuery slider, slick, slide, responsive, image, template, shortcode, widget, sidebar, page, Post, posts
+Tags: jQuery, slider, slick, slide, responsive, image, image album, image slider, image slideshow, images, jQuery gallery, jQuery slider, jQuery slideshow, links, template, shortcode, widget, sidebar, page, Post, posts, best gallery, best gallery plugin, easy media gallery, fancy gallery, photo album gallery, Gallery Plugin, photo, photo album, photo albums, photo gallery, Photo Slider, photos, picture, pictures, plugin, plugin for gallery, plugin gallery, wp gallery, wp gallery plugin, wp slider
 Donate link: http://www.gungorbudak.com
 Requires at least: 3.3
 Tested up to: 4.0
