@@ -8,7 +8,7 @@ Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Slidy is a responsive jQuery slider that uses slick carousel and that is fully integrated into Wordpress. It can be inserted directly into a template or with its shortcode into pages, posts and widgets.
+Slidy is a responsive jQuery slider that uses slick carousel. Insert it directly into a template or with its shortcode into pages, posts & widgets.
 
 == Description ==
 
