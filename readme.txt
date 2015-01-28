@@ -4,7 +4,7 @@ Tags: jQuery, slider, slick, slide, responsive, image, image album, image slider
 Donate link: http://www.gungorbudak.com
 Requires at least: 3.3
 Tested up to: 4.0
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,7 @@ Find the example below for inserting it using shortcode
 * autoplay (true) - autoplay of the slides
 * autoplaySpeed (3000) - speed of the autoplay
 * arrows (true) - navigation arrows
+* cssEase ("ease") - CSS3 Animation Easing
 * dots (true) - navigation dots
 * draggable (true) - desktop mouse dragging
 * fade (false) - fade transition (only possible when slidesToShow is 1)
@@ -82,6 +83,9 @@ Absolutely.
 5. Add/Edit Slide interface slide image and category meta box
 
 == Changelog ==
+
+= 0.0.2 =
+CSS3 Animation Easing option added
 
 = 0.0.1 =
 First release

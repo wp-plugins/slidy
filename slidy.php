@@ -3,7 +3,7 @@
  * Plugin Name: Slidy
  * Plugin URI: http://www.gungorbudak.com/slidy
  * Description: Slidy is a responsive jQuery slider that uses slick carousel and that is fully integrated into Wordpress
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Gungor Budak
  * Author URI: http://www.gungorbudak.com
  * License: GPL2
@@ -47,6 +47,7 @@ $default_args = array(
 	'autoplay' => 'true',
 	'autoplaySpeed' => '3000',
 	'arrows' => 'true',
+	'cssEase' => 'ease',
 	'dots' => 'true',
 	'draggable' => 'true',
 	'fade' => 'false',
@@ -339,6 +340,7 @@ function slidy_shortcode( $atts ) {
 	if (isset($atts['autoplayspeed']) === true) $atts['autoplaySpeed'] = $atts['autoplayspeed'];
 	if (isset($atts['slidestoscroll']) === true) $atts['slidesToScroll'] = $atts['slidestoscroll'];
 	if (isset($atts['slidestoshow']) === true) $atts['slidesToShow'] = $atts['slidestoshow'];
+	if (isset($atts['cssease']) === true) $atts['cssEase'] = $atts['cssease'];
 	if (isset($atts['pauseonhover']) === true) $atts['pauseOnHover'] = $atts['pauseonhover'];
 	if (isset($atts['pauseondotshover']) === true) $atts['pauseOnDotsHover'] = $atts['pauseondotshover'];
 	if (isset($atts['touchmove']) === true) $atts['touchMove'] = $atts['touchmove'];
