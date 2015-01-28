@@ -3,7 +3,7 @@
  * Plugin Name: Slidy
  * Plugin URI: http://www.gungorbudak.com/slidy
  * Description: Slidy is a responsive jQuery slider that uses slick carousel and that is fully integrated into Wordpress
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Gungor Budak
  * Author URI: http://www.gungorbudak.com
  * License: GPL2
