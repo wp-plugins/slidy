@@ -295,7 +295,7 @@ function slidy_create( $atts ) {
 			jQuery(document).ready(function(){
 				jQuery(".slidy").slick({';
 					foreach ($args as $arg => $value):
-						$the_slidy .= $arg .': ' . $value . ',';
+						$the_slidy .= ($arg == "cssEase") ? $arg .': "' . $value . '",' : $arg .': ' . $value . ',';
 					endforeach;
 		$the_slidy .= '});
 			});
