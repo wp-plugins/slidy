@@ -4,7 +4,7 @@ Tags: jQuery, slider, slick, slide, responsive, image, image album, image slider
 Donate link: http://www.gungorbudak.com
 Requires at least: 3.3
 Tested up to: 4.0
-Stable tag: 0.0.2
+Stable tag: 0.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -83,6 +83,9 @@ Absolutely.
 5. Add/Edit Slide interface slide image and category meta box
 
 == Changelog ==
+
+= 0.0.3 =
+Promlem with cssEase option solved
 
 = 0.0.2 =
 CSS3 Animation Easing option added
